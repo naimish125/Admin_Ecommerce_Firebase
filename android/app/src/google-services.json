@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463948331647",
+    "project_id": "login-fc270",
+    "storage_bucket": "login-fc270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463948331647:android:1ed7e765c915eb17c6dd4a",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463948331647-830056mof9ejaujl6rnklt7q5dctrr15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2drI0lmv2aQu7DAx1qNjffyl3BwzUw9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463948331647-830056mof9ejaujl6rnklt7q5dctrr15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
